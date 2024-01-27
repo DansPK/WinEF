@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace WinEF
 {
-    public partial class Form1 : Form
+    public partial class WinEF_Interface : Form
     {
-        public Form1()
+        public WinEF_Interface()
         {
             InitializeComponent();
+        }
+
+        private void WinEF_Interface_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -1,0 +1,10 @@
+E:\ONEDRIVE SAVED\OneDrive\WinEF Project\WinEF\WinEF\bin\Debug\WinEF.exe.config
+E:\ONEDRIVE SAVED\OneDrive\WinEF Project\WinEF\WinEF\bin\Debug\WinEF.exe
+E:\ONEDRIVE SAVED\OneDrive\WinEF Project\WinEF\WinEF\bin\Debug\WinEF.pdb
+E:\ONEDRIVE SAVED\OneDrive\WinEF Project\WinEF\WinEF\obj\Debug\WinEF.csproj.AssemblyReference.cache
+E:\ONEDRIVE SAVED\OneDrive\WinEF Project\WinEF\WinEF\obj\Debug\WinEF.Properties.Resources.resources
+E:\ONEDRIVE SAVED\OneDrive\WinEF Project\WinEF\WinEF\obj\Debug\WinEF.WinEF_Interface.resources
+E:\ONEDRIVE SAVED\OneDrive\WinEF Project\WinEF\WinEF\obj\Debug\WinEF.csproj.GenerateResource.cache
+E:\ONEDRIVE SAVED\OneDrive\WinEF Project\WinEF\WinEF\obj\Debug\WinEF.csproj.CoreCompileInputs.cache
+E:\ONEDRIVE SAVED\OneDrive\WinEF Project\WinEF\WinEF\obj\Debug\WinEF.exe
+E:\ONEDRIVE SAVED\OneDrive\WinEF Project\WinEF\WinEF\obj\Debug\WinEF.pdb

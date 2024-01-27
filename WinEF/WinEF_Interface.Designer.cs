@@ -1,6 +1,6 @@
 ﻿namespace WinEF
 {
-    partial class Form1
+    partial class WinEF_Interface
     {
         /// <summary>
         /// Required designer variable.
@@ -28,13 +28,34 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.btn_Run = new System.Windows.Forms.Button();
+            this.SuspendLayout();
+            // 
+            // btn_Run
+            // 
+            this.btn_Run.Location = new System.Drawing.Point(53, 24);
+            this.btn_Run.Name = "btn_Run";
+            this.btn_Run.Size = new System.Drawing.Size(75, 23);
+            this.btn_Run.TabIndex = 0;
+            this.btn_Run.Text = "Run_Hello";
+            this.btn_Run.UseVisualStyleBackColor = true;
+            // 
+            // WinEF_Interface
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Form1";
+            this.Controls.Add(this.btn_Run);
+            this.Name = "WinEF_Interface";
+            this.Text = "WinEF";
+            this.Load += new System.EventHandler(this.WinEF_Interface_Load);
+            this.ResumeLayout(false);
+
         }
 
         #endregion
+
+        private System.Windows.Forms.Button btn_Run;
     }
 }
 
