@@ -8,3 +8,5 @@ E:\ONEDRIVE SAVED\OneDrive\WinEF Project\WinEF\WinEF\obj\Debug\WinEF.csproj.Gene
 E:\ONEDRIVE SAVED\OneDrive\WinEF Project\WinEF\WinEF\obj\Debug\WinEF.csproj.CoreCompileInputs.cache
 E:\ONEDRIVE SAVED\OneDrive\WinEF Project\WinEF\WinEF\obj\Debug\WinEF.exe
 E:\ONEDRIVE SAVED\OneDrive\WinEF Project\WinEF\WinEF\obj\Debug\WinEF.pdb
+E:\ONEDRIVE SAVED\OneDrive\WinEF Project\WinEF\WinEF\bin\Debug\System.Management.Automation.dll
+E:\ONEDRIVE SAVED\OneDrive\WinEF Project\WinEF\WinEF\obj\Debug\WinEF.csproj.CopyComplete

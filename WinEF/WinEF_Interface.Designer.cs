@@ -39,6 +39,7 @@
             this.btn_Run.TabIndex = 0;
             this.btn_Run.Text = "Run_Hello";
             this.btn_Run.UseVisualStyleBackColor = true;
+            this.btn_Run.Click += new System.EventHandler(this.btn_Run_Click);
             // 
             // WinEF_Interface
             // 
