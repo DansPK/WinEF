@@ -10,3 +10,13 @@ E:\ONEDRIVE SAVED\OneDrive\WinEF Project\WinEF\WinEF\obj\Debug\WinEF.exe
 E:\ONEDRIVE SAVED\OneDrive\WinEF Project\WinEF\WinEF\obj\Debug\WinEF.pdb
 E:\ONEDRIVE SAVED\OneDrive\WinEF Project\WinEF\WinEF\bin\Debug\System.Management.Automation.dll
 E:\ONEDRIVE SAVED\OneDrive\WinEF Project\WinEF\WinEF\obj\Debug\WinEF.csproj.CopyComplete
+D:\Github\WinEF\WinEF\bin\Debug\WinEF.exe.config
+D:\Github\WinEF\WinEF\bin\Debug\WinEF.exe
+D:\Github\WinEF\WinEF\bin\Debug\WinEF.pdb
+D:\Github\WinEF\WinEF\obj\Debug\WinEF.csproj.AssemblyReference.cache
+D:\Github\WinEF\WinEF\obj\Debug\WinEF.Properties.Resources.resources
+D:\Github\WinEF\WinEF\obj\Debug\WinEF.WinEF_Interface.resources
+D:\Github\WinEF\WinEF\obj\Debug\WinEF.csproj.GenerateResource.cache
+D:\Github\WinEF\WinEF\obj\Debug\WinEF.csproj.CoreCompileInputs.cache
+D:\Github\WinEF\WinEF\obj\Debug\WinEF.exe
+D:\Github\WinEF\WinEF\obj\Debug\WinEF.pdb

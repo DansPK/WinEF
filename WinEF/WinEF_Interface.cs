@@ -25,7 +25,9 @@ namespace WinEF
 
         public void ExercutePowershellScript()
         {
-            string scriptPath = ".\\Script\\Test\\Hello.ps1";
+
+            string scriptPath = "\\WinEF\\WinEF\\Script\\Test\\Hello.ps1";
+            
 
             ProcessStartInfo psi = new ProcessStartInfo
             {
@@ -48,6 +50,7 @@ namespace WinEF
         }   
         private void WinEF_Interface_Load(object sender, EventArgs e)
         {
+            
 
         }
 

@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\WinEF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79894ACA-436D-47F5-A1EA-59862FC00B79}|WinEF\\WinEF.csproj|d:\\github\\winef\\winef\\winef_interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79894ACA-436D-47F5-A1EA-59862FC00B79}|WinEF\\WinEF.csproj|solutionrelative:winef\\winef_interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79894ACA-436D-47F5-A1EA-59862FC00B79}|WinEF\\WinEF.csproj|d:\\github\\winef\\winef\\script\\test\\hello.ps1||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{79894ACA-436D-47F5-A1EA-59862FC00B79}|WinEF\\WinEF.csproj|solutionrelative:winef\\script\\test\\hello.ps1||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79894ACA-436D-47F5-A1EA-59862FC00B79}|WinEF\\WinEF.csproj|d:\\github\\winef\\winef\\winef_interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{79894ACA-436D-47F5-A1EA-59862FC00B79}|WinEF\\WinEF.csproj|solutionrelative:winef\\winef_interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 144,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hello.ps1",
+              "DocumentMoniker": "D:\\Github\\WinEF\\WinEF\\Script\\Test\\Hello.ps1",
+              "RelativeDocumentMoniker": "WinEF\\Script\\Test\\Hello.ps1",
+              "ToolTip": "D:\\Github\\WinEF\\WinEF\\Script\\Test\\Hello.ps1",
+              "RelativeToolTip": "WinEF\\Script\\Test\\Hello.ps1",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAANOSURBVDhPjVRLTBtXFD1jsEmgBBMwhFQKICtNUEJWXaTKrpG6aJAiISRWWXaTqs2KLmBXKatIEeomUqTumixY5NcqqyiNEhXk8IlCim3ANr/BgAf/xjOeYT7Pve/ZBCchlCOdee/emXvm3vs\u002BEggzMzOMjwfBNM3C6Ojoj2NjYw/ILJa9H6FUKokxGo2y/8Paygr788mTRH9//zWfz9ckAveBpzIK8YN4vLUVx1tauoaGhob7\u002Bvquejyehkrop\u002BAZuq57IHVdZ5OTk8wwDBYKhRYHBgauUWh9WWEP7zM8DBRFwcTEBFRVDQ4ODt4mVxfRJ15Wg2foOM6hqGkak2WZzc7O8oW8QmwWIhUcuoe7rKurQ3t7O3p6engYL7mGT3Yhtk00GmHBYFA4dlEsGthStuGpKX/P9wPp0ciFy/bwyMh9msQd2y68fP7sj3wuuykEI5EPBWmXYHlVhlLQ0dDkh0sKqulAkiR4az1wyOY\u002Bl9GjJEFZX2XD13/4ZjURm6paFJGDIBdc30qBNbch3diG5foAHq7bsBv8\u002BC1m4pFWj0dmIx4UjkpT1hEpqxWZZVk8eP8ecsGUqiPFahE3GJZ0Fyb17lzrF7j8ZRP\u002BWVIwny5iKVOEkisgmdxMO7a1w3WqBKtIdo7E1kgsrtlY0Cy8y1n4PZzCd93N8PtqEE2piCkq1GwB6c2NiGtbea6zb8lqQUMGXizoDP\u002BqFibiCvq6/LjY0Yhb4wksbuaRzWgwNAMeU4eWUV7TltrmKhXBvXI55\u002BNLkO0aTGouprI7sDUd356ox/NYCt\u002BfDuDmpU4EPAyOYRI1FotG1oq6bnClqgz3sCBvIF0sIaCkcEHdwkkvw69/z2NKzuJOKIF7b1bQfQT4utkHW82ZamZbp\u002BMpYmv5o9w7Xm4ZjmXjlx4vWo\u002BVjyrfLrSK1AoV2XweLYEA5sKLOH/2DB6/yGyNG3pSfEgQgh8jTyW\u002BWVwGP1sS2/1RSYhm0xmc7KAFScjIW3CTyfV5e8eMVj4qn5RwOMw6O08JB0fo7RzvKs0kSO8z36tAlERZ//zTjbumrv21Ia885bcRfyUEe3t7r9Kl\u002BRVNP3/H7YPp6elXfCDmhIMgBAlcyE/0Cuvw0IlczBYWgP8Ad15o\u002B6vo50EAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-01-29T07:05:32.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WinEF_Interface.cs",
+              "DocumentMoniker": "D:\\Github\\WinEF\\WinEF\\WinEF_Interface.cs",
+              "RelativeDocumentMoniker": "WinEF\\WinEF_Interface.cs",
+              "ToolTip": "D:\\Github\\WinEF\\WinEF\\WinEF_Interface.cs",
+              "RelativeToolTip": "WinEF\\WinEF_Interface.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAmwBwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-29T06:59:25.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WinEF_Interface.cs [Design]",
+              "DocumentMoniker": "D:\\Github\\WinEF\\WinEF\\WinEF_Interface.cs",
+              "RelativeDocumentMoniker": "WinEF\\WinEF_Interface.cs",
+              "ToolTip": "D:\\Github\\WinEF\\WinEF\\WinEF_Interface.cs [Design]",
+              "RelativeToolTip": "WinEF\\WinEF_Interface.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-29T06:59:25.273Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 56,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
