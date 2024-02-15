@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\WinEF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79894ACA-436D-47F5-A1EA-59862FC00B79}|WinEF\\WinEF.csproj|d:\\github\\winef\\winef\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{79894ACA-436D-47F5-A1EA-59862FC00B79}|WinEF\\WinEF.csproj|solutionrelative:winef\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Github\\WinEF\\WinEF\\Form1.cs",
+              "RelativeDocumentMoniker": "WinEF\\Form1.cs",
+              "ToolTip": "D:\\Github\\WinEF\\WinEF\\Form1.cs [Design]",
+              "RelativeToolTip": "WinEF\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T12:45:45.882Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
